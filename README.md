@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 ## 👋 Fourzero.tech
 
 Welcome to fourzero.tech, the innovative platform where technology meets real-world challenges. Our website offers a unique opportunity for technologists to use their skills to solve pressing problems presented by companies. At the same time, companies can benefit from diverse technological expertise and innovative solutions, all while making a positive impact on society. Join our community and be part of the collaborative effort to drive meaningful change through technology.
@@ -29,7 +33,7 @@ Here some potential benefits for technologists using the fourzero.tech platform:
 
 ## 💰 Investors 
 
-Certainly! Here are two potential incentives for investors to consider investing in the fourzero.tech platform: 
+Potential incentives for investors to consider investing in the fourzero.tech platform: 
 
 1. Social Impact and Innovation: Investing in fourzero.tech provides an opportunity for investors to support a platform that facilitates technological innovation and problem-solving, while also making a positive impact on society by addressing real-world challenges. 
 2. Access to Emerging Talent and Solutions: By investing in the platform, investors can gain early access to emerging talent, innovative solutions, and potentially disruptive technologies developed by technologists collaborating on the platform. This can provide opportunities for strategic partnerships and investments in promising projects with real-world applications.
