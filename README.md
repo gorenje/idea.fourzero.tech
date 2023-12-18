@@ -37,5 +37,6 @@ Certainly! Here are two potential incentives for investors to consider investing
 4. Access to Emerging Technologies: Investing in fourzero.tech provides an opportunity for investors to gain access to emerging technologies and innovative solutions being developed by technologists on the platform. This can offer potential for early-stage investment in promising tech projects. 
 5. Social Impact Investment: The platform's focus on addressing real-world problems through technology presents an opportunity for investors to make socially responsible investments that contribute to positive societal change while also potentially yielding financial returns as successful projects come to fruition.
 
-Made with digital love by ChatGPT.
+Made with digital ❤️ by ChatGPT.
 
+[ideas](mailto:ideas@fourzero.tech)
