@@ -1,4 +1,4 @@
-## Fourzero.tech
+## 👋 Fourzero.tech
 
 Welcome to fourzero.tech, the innovative platform where technology meets real-world challenges. Our website offers a unique opportunity for technologists to use their skills to solve pressing problems presented by companies. At the same time, companies can benefit from diverse technological expertise and innovative solutions, all while making a positive impact on society. Join our community and be part of the collaborative effort to drive meaningful change through technology.
 
@@ -7,7 +7,7 @@ fourzero.tech is an innovative website that enables individuals to offer their s
 fourzero.tech is a website where individuals can offer their technology services for free to work on projects of their choosing. The platform allows users to contribute their skills and expertise in technology without charge, with the freedom to select the specific projects they would like to participate in using their technology.
 
 
-## Company benefits
+## 🏭 Company benefits
 
 Here are five potential benefits for companies to use the fourzero.tech platform: 
 
@@ -17,7 +17,7 @@ Here are five potential benefits for companies to use the fourzero.tech platform
 4. Collaboration Opportunities: The platform fosters collaboration between companies and technologists, creating opportunities for mutually beneficial partnerships and knowledge sharing. 
 5. Social Impact: Companies can align themselves with social responsibility initiatives by presenting real-world problems that, when solved, can have a positive impact on society, while also highlighting their commitment to innovation and social good.
 
-## Benefits for technologist
+## ⌨️ Benefits for technologist
 
 Here some potential benefits for technologists using the fourzero.tech platform: 
 
@@ -27,7 +27,7 @@ Here some potential benefits for technologists using the fourzero.tech platform:
 4. Networking and Collaboration: The platform creates opportunities for technologists to network with companies, other technologists, and potential collaborators, fostering a collaborative environment and the exchange of ideas and skills. This can lead to the development of new professional relationships and future project opportunities.
 5. Skill Development and Learning Opportunities: Technologists have the chance to enhance their skills, gain practical experience, and learn from collaborating with other professionals on diverse projects, which can contribute to their professional growth and expertise in their respective fields.
 
-## Investors 
+## 💰 Investors 
 
 Certainly! Here are two potential incentives for investors to consider investing in the fourzero.tech platform: 
 
